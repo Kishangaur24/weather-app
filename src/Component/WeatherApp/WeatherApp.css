@@ -33,7 +33,7 @@
     align-items: center;
     background: white;
     width: 3rem;
-    border-radius: 40px;
+    border-radius: 50px;
     cursor: pointer;
 }
 
@@ -75,4 +75,8 @@
 .data{
     font-size: 1rem;
     font-weight: 400;
+}
+
+.text{
+    font-size: 0.7rem;
 }
